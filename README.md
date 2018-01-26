@@ -22,7 +22,8 @@ For the implementation, I have used C++ as the programming language. For the ass
 * Player.cpp - represents the player object. It reads the png file for the character and animation details.
 
 # Challenges
-Attempting to implemet a game is a very detailed and rewarding task. The following tasks was very challenging for me;
-* Using the Visual Studio IDE comprehensively (Tutorial shows the steps for Eclipse, I was not always the same steps for Visual Studio)
+Attempting to implement a game is a very detailed and rewarding task. The following points were very challenging for me;
+* This was my first attempt to program in C++, as well as my first attempt to implemet a game.
+* Using the Visual Studio IDE comprehensively (Tutorial shows the steps for Eclipse, thus it was time to time different than Visual Studio)
 * Importing SDL Library and the linker setup
-*  Drawing additional game objects. I believe I could have succeded on this challenge as well, If I could have more time. 
+* Drawing additional game objects. I believe I could have succeded on this challenge as well, If I could have more time. 
